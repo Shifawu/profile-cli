@@ -1,7 +1,7 @@
 import requests
 import sys
 
-BASE_URL = "https://gender-classification-api-production.up.railway.app/api"
+BASE_URL = "https://gender-classification-api-production.up.railway.app/"
 
 
 def get_profiles():
